@@ -1,5 +1,4 @@
 public class colores {
-}
 package paint1;
 
 import java.awt.*;
@@ -23,3 +22,7 @@ public class PaintApplet extends Applet {
       x=appletAncho/2-i*appletAncho/16;
       y=appletAlto/2-i*appletAlto/16;
       g.fillOval(x, y, ancho, alto);
+      }
+   }
+  }
+}
