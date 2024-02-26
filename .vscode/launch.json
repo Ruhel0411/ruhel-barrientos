@@ -5,6 +5,41 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ejercicio1",
+            "request": "launch",
+            "mainClass": "SEMANA8.ejercicio1",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio2",
+            "request": "launch",
+            "mainClass": "SEMANA8.ejercicio2",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "jjjj",
+            "request": "launch",
+            "mainClass": "SEMANA8.jjjj",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "bucles",
+            "request": "launch",
+            "mainClass": "SEMANA8.bucles",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio04",
+            "request": "launch",
+            "mainClass": "ejercicio04",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Iniciar Chrome para localhost",
