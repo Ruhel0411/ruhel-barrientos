@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicios08",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios08",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios07",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios07",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios06",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios06",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios05",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios05",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios04",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios04",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios01",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios01",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios02",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios02",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicios03",
+            "request": "launch",
+            "mainClass": "ejercicios06.Ejercicios03",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio3",
+            "request": "launch",
+            "mainClass": "SEMANA8.ejercicio3",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
             "name": "ejercicio1",
             "request": "launch",
             "mainClass": "SEMANA8.ejercicio1",
