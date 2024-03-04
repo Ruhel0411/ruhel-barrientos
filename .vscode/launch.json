@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejemplo03",
+            "request": "launch",
+            "mainClass": "Array01.Ejemplo03",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo02",
+            "request": "launch",
+            "mainClass": "Array01.Ejemplo02",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo01",
+            "request": "launch",
+            "mainClass": "Array01.Ejemplo01",
+            "projectName": "ruhel barrientos_96bf72bc"
+        },
+        {
+            "type": "java",
             "name": "Ejercicios08",
             "request": "launch",
             "mainClass": "ejercicios06.Ejercicios08",
